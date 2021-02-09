@@ -12,7 +12,9 @@
 </head>
 <body>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque fuga nobis officia perferendis, quam quia. At
-blanditiis labore libero quas.</p>
+blanditiis labore libero quas.
+
+lore1</p>
 
 <a href="tweede.jsp" id="linkToSecondPage">Hier</a>
 
